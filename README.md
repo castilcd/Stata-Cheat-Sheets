@@ -1,8 +1,8 @@
 # Stata coding cheat sheets
 
-This is a guide for working through the Stata cheat cheats for data handling and health research.
+This is a guide for working through the Stata cheat cheats for data handling and health research. These are meant for quick reference when using Stata, and not intended to be a comprehensive tutorial. These are most useful to those who have some experience with Stata, but could use quick reminders of useful commands that are applicable to health research.  
 
-The .do files in this repo have been adapted based on the following Stata text books:
+The .do files in this repo have been adapted based on the following Stata Press books:
 * An Introduction to Stata for Health Researchers, Fourth Edition
 * Interpreting and Visualizing Regression Models Using Stata
 * Regression Models as a Tool in Medical Research
