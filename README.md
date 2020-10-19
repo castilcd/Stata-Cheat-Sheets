@@ -1,6 +1,6 @@
 # Stata coding cheat sheets
 
-This is a guide for working through the Stata cheat cheats for data handling and health research. These are meant for quick reference when using Stata, and not intended to be a comprehensive tutorial. These are most useful to those who have some experience with Stata, but could use quick reminders of useful commands that are applicable to health research.  
+This is a guide for browsing through my Stata cheat cheats for data handling and health research. These are meant for quick reference only, and not intended to be a comprehensive tutorial. These are most useful to those who have some experience with Stata, but could use quick reminders of useful commands that are applicable to health research generally.  
 
 The .do files in this repo have been adapted based on the following Stata Press books:
 * An Introduction to Stata for Health Researchers, Fourth Edition
@@ -9,7 +9,7 @@ The .do files in this repo have been adapted based on the following Stata Press 
 
 Click [HERE](https://www.stata.com/bookstore/biostatistics-epidemiology/) to find similar resources and sample datasets.
 
-## Suggested order to go through the cheat sheets if you're a Stata beginner and don't know where to start:
+## Suggested order for going through the cheat sheets if you don't know where to start:
 
 1. descrip_Commands_Ref.do
 2. append_merge_reshape.do
